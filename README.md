@@ -4,11 +4,21 @@ Hi 👋 My name is NIN1275
 A Web Developer, Java and Python developer
 ------------------------------------------
 
-* 🖥️  See my portfolio at [nin1275.xyz](http://nin1275.xyz)
-* 🚀  I'm currently working on [Nitwo](http://nitwo.nin1275.xyz)
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fnin1275.xyz&up_message=online&down_message=down&label=nin1275.xyz" alt="nin1275.xyz website status"/> <img src="https://img.shields.io/website?url=https%3A%2F%2Fcdn.nin1275.xyz&up_message=online&down_message=down&label=cdn.nin1275.xyz" alt="cdn.nin1275.xyz website status"/>
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fnitwo.nin1275.xyz&up_message=online&down_message=down&label=nitwo.nin1275.xyz" alt="nin1275.xyz website status"/>
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fapi.nin1275.xyz&up_message=online&down_message=down&label=api.nin1275.xyz" alt="api.nin1275.xyz website status"/>
+<br>
+
+
+Check out [nessentials](https://github.com/nin1275/nessentials)!
+Check out [nitwo](https://nitwo.nin1275.xyz)!
+
+------------------------------------------
+* 🖥️  See my portfolio at [nin1275.xyz](https://nin1275.xyz)
+* 🚀  I'm currently working on [nitwo](https://nitwo.nin1275.xyz)
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Minecraft Plugins
-* ⚡  Good at Cod and Mc
+* 🤝  I'm open to collaborating with Minecraft Plugins
+* ⚡  I'm also good at Cod and Mc
 
 ### Skills
 
@@ -20,7 +30,7 @@ A Web Developer, Java and Python developer
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/682553923067838517" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/nin1275" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@nin1275" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/nin1275yt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://discord.com/users/682553923067838517" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/nin1275" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@nin1275" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/nin1275yt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
