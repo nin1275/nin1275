@@ -20,6 +20,9 @@ Check out [nitwo](https://nitwo.nin1275.xyz)!
 * 🤝  I'm open to collaborating with Minecraft Plugins
 * ⚡  I'm also good at Cod and Mc
 
+### Discord
+<img src="https://discord.c99.nl/widget/theme-4/682553923067838517.png" alt="discord profile" draggable="false">
+
 ### Skills
 
 
